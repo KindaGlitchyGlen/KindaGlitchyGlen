@@ -2,11 +2,15 @@
 
 I'm passionate about AI and UI/UX Design, and I'm always looking for new projects. I'm currently working on a spades game and will soon start the "Ray Tracing in One Weekend" series.
 
+
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,py,docker,vim,ts,vscode,html,css,aws,c,cpp,dart,flutter,gcp,go,godot,latex,md,materialui,mysql,react,swift,tensorflow&perline=8" />
   </a>
 </p>
+
+
 
 - 🔭 I'm currently working on a TOP SECRET project and can't talk about it 🤐
 - 🌱 I’m currently learning more about AI & LLM development
