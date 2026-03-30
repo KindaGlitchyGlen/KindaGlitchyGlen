@@ -17,4 +17,4 @@ I'm passionate about AI and UI/UX Design, and I'm always looking for new project
 - 🔭 I'm currently working on a TOP SECRET project and can't talk about it 🤐
 - 🌱 I’m currently learning more about AI & LLM development
 - 🎬 Tell me your favorite movies! [My Letterboxd](https://letterboxd.com/Ruggxx/)
-- ⚡ Fun fact: I hold the world record for most books and video game
+- ⚡ Fun fact: I hold the world record for most books and video games purchased but never read/played. (probably)
