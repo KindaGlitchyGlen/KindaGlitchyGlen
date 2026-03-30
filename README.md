@@ -6,7 +6,7 @@ I'm passionate about AI and UI/UX Design and always looking for new projects. I'
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,docker,vim, typescript" />
+    <img src="https://skillicons.dev/icons?i=git,python,docker,vim,typescript" />
   </a>
 </p>
 
