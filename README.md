@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm passionate about AI and UI/UX Design and always looking for new projects. I'm currently working on a spades game and will soon start the "Ray Tracing in One Weekend" series.
+I'm passionate about AI and UI/UX Design, and I'm always looking for new projects. I'm currently working on a spades game and will soon start the "Ray Tracing in One Weekend" series.
 
 <p align="center">
   <a href="https://skillicons.dev">
