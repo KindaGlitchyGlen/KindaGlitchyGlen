@@ -7,7 +7,7 @@ I'm passionate about AI and UI/UX Design, and I'm always looking for new project
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,docker,vim,ts,vscode,html,css,aws,c,cpp,dart,flutter,gcp,go,godot,latex,md,materialui,mysql,firebase, react,swift,tensorflow&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,py,docker,vim,ts,vscode,html,css,aws,c,cpp,dart,flutter,gcp,go,godot,latex,materialui,mysql,firebase,react,swift,tensorflow&perline=8" />
   </a>
 </p>
 
