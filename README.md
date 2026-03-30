@@ -2,11 +2,9 @@
 
 I'm passionate about AI and UI/UX Design and always looking for new projects. I'm currently working on a spades game and will soon start the "Ray Tracing in One Weekend" series.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,docker,vim,typescript" />
+    <img src="https://skillicons.dev/icons?i=git,python,docker,vim,typescript,html,css" />
   </a>
 </p>
 
