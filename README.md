@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**KindaGlitchyGlen/KindaGlitchyGlen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about AI and UI/UX Design and always looking for new projects. I'm currently working on a spades game and will soon start the "Ray Tracing in One Weekend" series.
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,python,docker,vim, typescript" />
+  </a>
+</p>
+
+- 🔭 I'm currently working on a TOP SECRET project and can't talk about it 🤐
+- 🌱 I’m currently learning more about AI & LLM development
+- 🎬 Tell me your favorite movies! [My Letterboxd](https://letterboxd.com/Ruggxx/)
+- ⚡ Fun fact: I hold the world record for most books and video game
