@@ -1,20 +1,35 @@
-## Hi there 👋
+## hey, i'm Glen 👋
 
-I'm passionate about AI and UI/UX Design, and I'm always looking for new projects. I'm currently working on a spades game and will soon start the "Ray Tracing in One Weekend" series.
+**Status:** "Developing" into a full-time SWE. (ba dum tss)
 
-<br>
-<br>
+Habitual pursuer of projects more ambitious than my free time allows. I just. Can't. Help it.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,docker,vim,ts,vscode,html,css,aws,c,cpp,dart,flutter,gcp,go,godot,latex,materialui,mysql,firebase,react,swift,tensorflow,md&perline=8" />
-  </a>
+Currently focusing on work at the intersection of **AI and UI/UX**, with a growing interest in **graphics programming**, especially,
+simulation and rendering. Actively seeking **Summer 2026 opportunities.**
+
+---
+
+### 🔨 Building with
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,py,react,materialui,flask,mysql,c"🇴🦙 />
 </p>
 
-<br>
-<br>
+### 🗺️ Exploring
+<p>
+  <img src="https://skillicons.dev/icons?i=go,java,aws,pytorch,supabase,chroma"🤗 />
+</p>
 
-- 🔭 I'm currently working on a TOP SECRET project and can't talk about it 🤐
-- 🌱 I’m currently learning more about AI & LLM development
-- 🎬 Tell me your favorite movies! [My Letterboxd](https://letterboxd.com/Ruggxx/)
-- ⚡ Fun fact: I hold the world record for most books and video games purchased but never read/played. (probably)
+### ⏭️ Up next
+<p>
+  <img src="https://skillicons.dev/icons?i=rust,postgresql,gcp" />
+</p>
+
+---
+
+### What am I up to?
+
+- 🔍 Contributing to a local-cloud hybrid RAG and risk analyis system for an FCU
+- 🔦 Ray Tracing in One Weekend Series in Rust is on deck. We'll see...
+- 🧠 Systems programming and database fundamentals refresher: memory, concurrency, race conditions, indexing, transactions
+- 🔜 Public projects coming soon. They exist. They're just not ready to meet people yet.
+- 💪 shoutout [@tamely](https://github.com/tamely) for the README inspo and introducing me to the world of rendering. I appreciate you
