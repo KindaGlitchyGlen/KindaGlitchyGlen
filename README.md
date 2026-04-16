@@ -14,7 +14,7 @@ Actively seeking **Summer 2026 opportunities.**
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,py,react,materialui,flask,mysql,c,css,html"/>
+    <img src="https://skillicons.dev/icons?i=ts,py,react,materialui,flask,mysql,c"/>
   </a>
 </p>
 
