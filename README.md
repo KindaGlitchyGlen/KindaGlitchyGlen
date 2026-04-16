@@ -10,18 +10,19 @@ simulation and rendering. Actively seeking **Summer 2026 opportunities.**
 ---
 
 ### 🔨 Building with
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,py,react,materialui,flask,mysql,c"🇴🦙 />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,py,react,materialui,flask,mysql,c,css,html"🇴🦙 />
 </p>
+<span>🦙 Ollama</span>
 
 ### 🗺️ Exploring
-<p>
-  <img src="https://skillicons.dev/icons?i=go,java,aws,pytorch,supabase,chroma"🤗 />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,java,aws,pytorch,chromadb,flutter"🤗 />
 </p>
 
 ### ⏭️ Up next
-<p>
-  <img src="https://skillicons.dev/icons?i=rust,postgresql,gcp" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,postgres,supabase,cloudflare" />
 </p>
 
 ---
