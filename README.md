@@ -4,7 +4,7 @@
 
 Habitual pursuer of projects more ambitious than my free time allows. I just. Can't. Help it.
 
-Currently focusing on work at the intersection of **AI and UI/UX**, with a growing interest in **graphics programming** — especially simulation and rendering.**
+Currently focusing on work at the intersection of **AI and UI/UX**, with a growing interest in **graphics programming** — especially simulation and rendering.
 
 ---
 
