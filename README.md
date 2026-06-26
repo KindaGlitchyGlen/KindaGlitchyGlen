@@ -38,8 +38,8 @@ I care most about **human-centered AI** systems that quietly handle life's repet
 
 - 🥘 **PantryPalV2** — *in progress* — an iPad-first recipe manager (SwiftUI) with meal type and ingredient-based filtering
 - 🎛️ **SongLight** — *in progress* — splits any track into stems and turns the kick, snare, hats, and 808s into configurable, shareable light shows. Audio DSP up front, a PyTorch model doing the pattern work underneath.
-- 🦌 **ParkVision** *(working title)* — *up next* — a from-scratch PyTorch wildlife image classifier trained on North American national-park species. Deep-learning fundamentals, on a subject I love.
-- 🌲 **Undergrowth** *(working title)* — *up next* — a Blender + USD Python add-on for scattering procedural foliage and mini-biomes, rendered in Pixar's RenderMan. Pipeline tooling for living worlds.
+- 🦌 **ParkVision** *(working title)* — *up next* — a from-scratch PyTorch wildlife image classifier trained on North American national-park species.
+- 🌲 **Undergrowth** *(working title)* — *up next* — a Blender + USD Python add-on for scattering procedural foliage and mini-biomes, rendered in Pixar's RenderMan. Pipeline tooling for creating living worlds.
 
 ### 🔍 What else I've been up to
 
