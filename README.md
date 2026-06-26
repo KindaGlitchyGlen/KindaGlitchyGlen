@@ -1,47 +1,52 @@
-## hey, i'm Glen 👋
+## hey, i'm Tre' 👋
 
-**Status:** "Developing" into a full-time SWE. (ba dum tss)
+Software engineer interested in **AI**, **UI/UX**, and **graphics**.
 
-Habitual pursuer of projects more ambitious than my free time allows. I just. Can't. Help it.
+I'm especially drawn to **ambient ecosystems**. It's the weaving of AI and IoT into the physical environment so technology works quietly in the background, shifting the model from constant active commands toward context-aware adaptation. I'm also passion about rendering, simulation, and creating things that look beautiful, in general.
 
-Currently focusing on work at the intersection of **AI and UI/UX**, with a growing interest in **graphics programming** — especially simulation and rendering.
+I care most about **human-centered AI** systems that quietly handle life's repetitive overhead so people get their time, attention, and energy back for what actually matters: other people, art, learning, and the outdoors.
 
 ---
 
 <h3 align="center">🔨 Building with</h3>
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,py,react,materialui,flask,mysql,c"/>
+    <img src="https://skillicons.dev/icons?i=ts,py,react,swift,flask,postgres,c"/>
   </a>
 </p>
-
-<p align="center">also using: <code>Ollama</code></p>
+<p align="center">also using: <code>Ollama</code> <code>librosa</code></p>
 
 <h3 align="center">🗺️ Exploring</h3>
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,java,aws,pytorch,flutter"/>
+    <img src="https://skillicons.dev/icons?i=pytorch,go,java,gcp,blender"/>
   </a>
 </p>
-
-<p align="center">also using: <code>Hugging Face</code> <code>ChromaDB</code></p>
+<p align="center">also using: <code>Hugging Face</code> <code>USD</code> <code>ChromaDB</code></p>
 
 <h3 align="center">⏭️ Up next</h3>
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,postgres,supabase"/>
+    <img src="https://skillicons.dev/icons?i=rust,houdini,supabase"/>
   </a>
 </p>
+<p align="center">also eyeing: <code>RenderMan</code> <code>OSL</code></p>
 
 ---
 
-### What am I up to?
+### 🛠️ What I'm building this summer
 
-- 🔍 Contributing to a local-cloud hybrid RAG and risk analysis system for an FCU
-- 🔦 Ray Tracing in One Weekend Series in Rust is on deck. We'll see...
-- 🧠 Systems programming and database fundamentals refresher: memory, concurrency, race conditions, indexing, transactions
-- 🔜 Public projects coming soon. They exist. They're just not ready to meet people yet.
-- 💪 shoutout [@tamely](https://github.com/tamely) for the README inspo and introducing me to the world of rendering. I appreciate you.
+A roadmap, shipping piece by piece. Each repo goes public the day it ships. Watch this space!
+
+- 🥘 **PantryPalV2** — *in progress* — an iPad-first recipe manager (SwiftUI) with meal type and ingredient-based filtering
+- 🎛️ **SongLight** — *in progress* — splits any track into stems and turns the kick, snare, hats, and 808s into configurable, shareable light shows. Audio DSP up front, a PyTorch model doing the pattern work underneath.
+- 🦌 **ParkVision** *(working title)* — *up next* — a from-scratch PyTorch wildlife image classifier trained on North American national-park species. Deep-learning fundamentals, on a subject I love.
+- 🌲 **Undergrowth** *(working title)* — *up next* — a Blender + USD Python add-on for scattering procedural foliage and mini-biomes, rendered in Pixar's RenderMan. Pipeline tooling for living worlds.
+
+### 🔍 What else I've been up to
+
+- 🔐 Contributed to a local-cloud hybrid RAG + risk-analysis system for a credit union
+- 🧬 Research: machine learning for biological-age estimation in the LSU Math department
+- 🏔️ Away from work: watching The Hoop Collective and playing Windrose
+
+💪 shoutout [@tamely](https://github.com/tamely) for the README inspo and for introducing me to the world of rendering. I appreciate you.
