@@ -11,7 +11,7 @@ I care most about **human-centered AI** systems that quietly handle life's repet
 <h3 align="center">🔨 Building with</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,py,react,swift,flask,postgres,c"/>
+    <img src="https://skillicons.dev/icons?i=ts,py,react,swift,flask,postgres,cpp"/>
   </a>
 </p>
 <p align="center">also using: <code>Ollama</code> <code>librosa</code></p>
@@ -19,10 +19,10 @@ I care most about **human-centered AI** systems that quietly handle life's repet
 <h3 align="center">🗺️ Exploring</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,go,java,gcp,blender"/>
+    <img src="https://skillicons.dev/icons?i=pytorch,go,java,blender"/>
   </a>
 </p>
-<p align="center">also using: <code>Hugging Face</code> <code>USD</code> <code>ChromaDB</code></p>
+<p align="center">also using: <code>USD</code>
 
 <h3 align="center">⏭️ Up next</h3>
 <p align="center">
@@ -35,8 +35,6 @@ I care most about **human-centered AI** systems that quietly handle life's repet
 ---
 
 ### 🛠️ What I'm building this summer
-
-A roadmap, shipping piece by piece. Each repo goes public the day it ships. Watch this space!
 
 - 🥘 **PantryPalV2** — *in progress* — an iPad-first recipe manager (SwiftUI) with meal type and ingredient-based filtering
 - 🎛️ **SongLight** — *in progress* — splits any track into stems and turns the kick, snare, hats, and 808s into configurable, shareable light shows. Audio DSP up front, a PyTorch model doing the pattern work underneath.
