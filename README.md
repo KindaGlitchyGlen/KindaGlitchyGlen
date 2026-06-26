@@ -2,7 +2,7 @@
 
 Software engineer interested in **AI**, **UI/UX**, and **graphics**.
 
-I'm especially drawn to **ambient ecosystems**, the weaving of AI and IoT into the physical environment so technology works quietly in the background. I'm also passionate about rendering, simulation, and creating things that look beautiful, in general.
+I'm especially drawn to **ambient computing**, the weaving of AI and IoT into the physical environment so technology works quietly in the background. I'm also passionate about rendering, simulation, and creating things that look beautiful, in general.
 
 I care most about **human-centered AI** systems that quietly handle life's repetitive overhead so people get their time, attention, and energy back to spend on what actually matters: the outdoors, art, learning, and other people.
 
